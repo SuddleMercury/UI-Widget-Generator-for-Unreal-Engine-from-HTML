@@ -171,6 +171,8 @@ CSS `transition` → hover animations.
 <img width="604" height="329" alt="image" src="https://github.com/user-attachments/assets/e84d28cf-45fa-49c2-9477-baf9bd584411" />
 <img width="934" height="413" alt="image" src="https://github.com/user-attachments/assets/8851708e-759e-4f61-9627-1ffba135e501" />
 <img width="474" height="230" alt="image" src="https://github.com/user-attachments/assets/5914a500-c8ca-42d6-9fe6-5f77c58a4bab" />
+<img width="587" height="379" alt="image" src="https://github.com/user-attachments/assets/60fd6e2e-def6-4c85-bc82-b9d09293e63e" />
+
 
 <img width="650" height="464" alt="image" src="https://github.com/user-attachments/assets/2d16b15c-d680-4914-8792-effc36b42feb" />
 
