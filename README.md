@@ -1,6 +1,8 @@
 # Widget Generator — HTML → UMG Pipeline
 
 **Author:** TheOne/SuddleMercury - DZ
+**Made with:** Claude Fable & Codex 5.5
+**Created so others** can Co-Create this plugin into something exceptional
 **Version:** 2.0 · **Engine:** Unreal Engine 5.x · **Type:** Editor-only plugin
 
 Turn HTML mock-ups into real Unreal **Widget Blueprints** — layout, textures, buttons,
