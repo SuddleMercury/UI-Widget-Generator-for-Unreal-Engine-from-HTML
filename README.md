@@ -174,7 +174,6 @@ CSS `transition` → hover animations.
 <img width="650" height="464" alt="image" src="https://github.com/user-attachments/assets/2d16b15c-d680-4914-8792-effc36b42feb" />
 <img width="587" height="405" alt="image" src="https://github.com/user-attachments/assets/57ca64fb-5baa-4a95-8938-608c9f278096" />
 <img width="587" height="379" alt="image" src="https://github.com/user-attachments/assets/60fd6e2e-def6-4c85-bc82-b9d09293e63e" />
-<img width="1047" height="659" alt="image" src="https://github.com/user-attachments/assets/370f5384-23ae-4457-aa4d-927a6162060a" />
 
 <img width="350" height="319" alt="image" src="https://github.com/user-attachments/assets/1103e276-9b82-48d1-954c-c6747bfe65d6" />
 <img width="875" height="387" alt="image" src="https://github.com/user-attachments/assets/fd65236a-32fd-496c-a1f6-3b167fa06290" />
@@ -183,4 +182,5 @@ CSS `transition` → hover animations.
 
 <img width="691" height="229" alt="image" src="https://github.com/user-attachments/assets/dc1671a7-36b0-41b9-9ed8-a7c81bc8f8d5" />
 <img width="746" height="587" alt="image" src="https://github.com/user-attachments/assets/667623b1-6b41-48b9-a5bc-68d73ffbc30a" />
+<img width="1047" height="659" alt="image" src="https://github.com/user-attachments/assets/370f5384-23ae-4457-aa4d-927a6162060a" />
 
