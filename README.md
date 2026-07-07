@@ -167,6 +167,9 @@ Converter logic lives entirely in `Converter/index.html` (single file, no build 
 Ideas with headroom: font mapping UI, `:hover`-state textures, radial gradients,
 WidgetSwitcher generation from tab groups, re-import that updates existing WBPs in place,
 CSS `transition` → hover animations.
+<img width="650" height="464" alt="image" src="https://github.com/user-attachments/assets/2d16b15c-d680-4914-8792-effc36b42feb" />
 
 <img width="587" height="405" alt="image" src="https://github.com/user-attachments/assets/57ca64fb-5baa-4a95-8938-608c9f278096" />
+<img width="691" height="229" alt="image" src="https://github.com/user-attachments/assets/dc1671a7-36b0-41b9-9ed8-a7c81bc8f8d5" />
+<img width="746" height="587" alt="image" src="https://github.com/user-attachments/assets/667623b1-6b41-48b9-a5bc-68d73ffbc30a" />
 
