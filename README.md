@@ -169,7 +169,7 @@ WidgetSwitcher generation from tab groups, re-import that updates existing WBPs 
 CSS `transition` → hover animations.
 <img width="961" height="611" alt="image" src="https://github.com/user-attachments/assets/2a970bee-3fb6-41df-991d-7350f9d64aeb" />
 <img width="604" height="329" alt="image" src="https://github.com/user-attachments/assets/e84d28cf-45fa-49c2-9477-baf9bd584411" />
-Make sure that it has the CSS within the HTML file
+## Make sure that it has the CSS within the HTML file
 <img width="934" height="413" alt="image" src="https://github.com/user-attachments/assets/8851708e-759e-4f61-9627-1ffba135e501" />
 <img width="474" height="230" alt="image" src="https://github.com/user-attachments/assets/5914a500-c8ca-42d6-9fe6-5f77c58a4bab" />
 <img width="650" height="464" alt="image" src="https://github.com/user-attachments/assets/2d16b15c-d680-4914-8792-effc36b42feb" />
